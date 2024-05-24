@@ -34,6 +34,8 @@ Assalamu-alaikum. This is jannat, a passionate full stack web developer. My main
 - ![image](https://github.com/Mst-Jannat/Mst-Jannat/assets/170112143/b95c3ab0-902c-4d5c-9e3d-1c7a57314a19) Cricket,![image](https://github.com/Mst-Jannat/Mst-Jannat/assets/170112143/240aa774-a56b-4e76-b086-d661245dec87) Badminton.
 - ![image](https://github.com/Mst-Jannat/Mst-Jannat/assets/170112143/9a24c0d3-e7fd-4fe2-85aa-29273a4a07dc) Swiming, ![image](https://github.com/Mst-Jannat/Mst-Jannat/assets/170112143/eda0e93d-1ddd-45eb-9ce3-fd4f1fb599de) Running.
 - ![image](https://github.com/Mst-Jannat/Mst-Jannat/assets/170112143/726aa350-8ef6-4f56-ac48-f5600f3546bc) Travelling.
+  ### Coding Time:
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mst-Jannat&theme=dark&border_radius=18.4&date_format=M%20j%5B%2C%20Y%5D&card_width=468)](https://git.io/streak-stats)
 ## Contact Information
 - Email:jannat01701934113@gmail.com
 
